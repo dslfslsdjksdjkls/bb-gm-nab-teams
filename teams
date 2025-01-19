@@ -1600,8 +1600,15 @@
         "imgURL": "https://content.sportslogos.net/logos/6/234/full/utah_jazz_logo_primary_2023_sportslogosnet-8513.png",
         "colors": [
           "#0D0D0D",
-          "#F2CF1D",
+          "#FFFFFF",
           "#F2E41D"
+        ]
+      },
+      "2025": {
+        "colors": [
+          "#3E2680",
+          "#FFFFFF",
+          "#6CAEDF"
         ]
       }
     }

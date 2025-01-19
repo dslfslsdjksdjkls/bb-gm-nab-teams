@@ -63,7 +63,8 @@
         ]
       },
       "2021": {
-        "imgURL": "https://i.imgur.com/i1TZWrw.png",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
+        "imgURLSmall": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
         "colors": [
           "#c8102e",
           "#ffffff",
@@ -114,7 +115,7 @@
     "name": "Celtics",
     "region": "Boston",
     "colors": [
-      "#007a33",
+      "#34783B",
       "#ffffff",
       "#ffffff"
     ],

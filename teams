@@ -137,6 +137,10 @@
       },
       "1997": {
         "imgURL": "https://i.ibb.co/FVBSdzj/bos1997.png"
+      },
+      "2025": {
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+        "imgURLSmall": "https://sports.cbsimg.net/fly/images/nba/logos/team/alt/334.svg"
       }
     }
   },

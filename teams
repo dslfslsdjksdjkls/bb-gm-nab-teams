@@ -204,9 +204,8 @@
     }
   },
   "CHH": {
-    "abbrev": "CHA",
+    "abbrev": "CHH",
     "imgURL": "https://i.ibb.co/fMPCZQD/chh1990.png",
-    "imgURLSmall": "https://sports.cbsimg.net/fly/images/nba/logos/team/alt/448283.svg",
     "name": "Hornets",
     "region": "Charlotte",
     "colors": [
@@ -227,12 +226,13 @@
   },
   "CHO": {
     "imgURL": "https://i.ibb.co/1b4hp0F/cho.png",
+    "imgURLSmall": "https://sports.cbsimg.net/fly/images/nba/logos/team/alt/448283.svg",
     "name": "Hornets",
     "region": "Charlotte",
     "colors": [
-      "#1d1160",
-      "#00788C",
-      "#A1A1A4"
+      "#33768A",
+      "#ffffff",
+      "#ffffff"
     ]
   },
   "CHP": {

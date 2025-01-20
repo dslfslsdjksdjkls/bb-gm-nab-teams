@@ -204,14 +204,15 @@
     }
   },
   "CHH": {
-    "abbrev": "CHH",
+    "abbrev": "CHA",
     "imgURL": "https://i.ibb.co/fMPCZQD/chh1990.png",
+    "imgURLSmall": "https://sports.cbsimg.net/fly/images/nba/logos/team/alt/448283.svg",
     "name": "Hornets",
     "region": "Charlotte",
     "colors": [
-      "#00778B",
+      "#33768A",
       "#ffffff",
-      "#0032a0"
+      "#FFFFFF"
     ]
   },
   "CHI": {
